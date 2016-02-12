@@ -1,0 +1,18 @@
+body {
+    background: dodgerblue;
+}
+
+main {
+   display: flex;
+   width: 280px;
+   height: 1200px;
+}
+
+.p2fist {
+    width: 20%;
+    height: auto;   
+}
+
+.winner {
+    color: red;
+}
